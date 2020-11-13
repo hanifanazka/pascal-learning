@@ -1,0 +1,7 @@
+/.vscode
+/GPATH
+/GRTAGS
+/GTAGS
+/snippet/*.o
+/snippet/*)?
+/*.html
